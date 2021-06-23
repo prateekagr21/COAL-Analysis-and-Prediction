@@ -36,6 +36,9 @@ And predicted it from the train test split that i had done before.
 
 #### Also, checked for errors at last
 - Mean Absolute Error
-- Root mean Squared Error.
+- Root mean Squared Error
 
 ## Conclusion :
+From above , i can say that i was able to make the data meaningful and explained with the perspective of a data scientist.
+Made visualization and Predicted the model to get a Normal Distribution curve.
+So, All in all, it was a fun experience.
